@@ -1,0 +1,6 @@
+What happens when you intialize a respository? Why do you need to do that?
+
+	A hidden file is created (.git) with metadata. This will allow me to commit the changes a will made on some project.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area allows you to control what files do you want to commit while the working directory is where you actually or phisically your archives are allocated. The repository is were are the history of the commits are saved. 
