@@ -16,3 +16,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	A combination of a project considering the point of bifurcation of the branch. Because you can understand more cleary how the project was modified and to know exatly at what commit the branch was created and at what point was merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	With automatic merging you don't need to spend time knowing what other person did or maybe yourself did but you don't remember but maybe the you don't get the expected or desired result. On the other side doiing merges manually maybe need to understand in detail what other person did and maybe ask him  directly what he or she did, but with all of that efort you ensure that the project is going to work as expected to be. 
