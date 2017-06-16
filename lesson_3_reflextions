@@ -14,3 +14,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones is used when you want to copy a remote repository to your local machine or make a copy of your local repository to your own machine.
 
 	Branches are used when you want to experiment or fix something paralel to the development of your master branch. This allow to colaborate as well as don't have the risk to modify something that was already working.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	That you don't going to have future merge conflicts. Also, you are going to work in most tecent version of your project.
