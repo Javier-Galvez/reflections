@@ -24,3 +24,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	It would be easier to use the above method when you a re working with two or three person son small projects and when working on some area doen't affect others.
 
 	It would be harder when you have a big team working on the same complex problem trying to improve the same secction of code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When you want that someone else reviw the changes your made as well as inform the team of colaboration what you wnat to do. I other words I see this as a sugestion to modify some section of the code.
+
+	The separate brach has the benefit that you take into a consideration the opinions of others team members.
+	The benefit to make changes directly in master is that you only need to use a few git commands to achieve it. It's much faster and much less complex that do it in a separate branch.
